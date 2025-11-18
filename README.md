@@ -1,4 +1,5 @@
 1.What are some differences between interfaces and types in TypeScript?
+
 Answer:Interfaces are ideal for defining object shapes and supporting extension via merging, while types are more flexible and can represent more complex constructs like unions and intersections. In practice, interfaces are great for structural contracts, and types are better for advanced type manipulation.
 Example:
 // Interfaces can merge
